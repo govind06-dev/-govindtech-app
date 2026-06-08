@@ -1,0 +1,10 @@
+.cache/
+.ssh/
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.gitconfig
+.sudo_as_admin_successful
+*.pem
+*.zip
